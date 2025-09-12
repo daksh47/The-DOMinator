@@ -2,6 +2,6 @@
 
 ## Contributors
 
-- **[Daksh Rawal/daksh47](Link to profile)**: Description of contributions.
-- **[Puneet Sethiya/Username](Link to profile)**: Description of contributions.
-- **[Dhanush Kakarla/Username](Link to profile)**: Description of contributions.
+- **[ Daksh Rawal ](https://github.com/daksh47)**: Founder & Lead Developer.
+- **[ Puneet Sethiya ](Link to profile)**: Co-Founder & Web Developer.
+- **[ Dhanush Kakarla ](https://github.com/dhanush14chowdary)**: CTO.
