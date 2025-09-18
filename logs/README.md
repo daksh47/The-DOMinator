@@ -11,3 +11,10 @@
 
 ## Data Droppings 4
 <img width="859" height="657" alt="1" src="https://github.com/user-attachments/assets/d3985e95-ae55-4961-9320-8d35d391982d" />
+
+## Data Droppings 5
+<img width="429" height="102" alt="Screenshot 2025-09-18 180325" src="https://github.com/user-attachments/assets/c878d394-3d9d-4c72-ae69-48f9ed49e572" />
+
+
+## Data Droppings 6
+<img width="819" height="94" alt="Screenshot 2025-09-18 180317" src="https://github.com/user-attachments/assets/e3337257-7183-4d9a-a3fe-8b7459ccb645" />
